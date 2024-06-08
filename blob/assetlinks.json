@@ -1,0 +1,13 @@
+---
+layout: none
+permalink: .well-known/assetlinks.json
+---
+
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+        "namespace": "android_app", 
+        "package_name": "com.unact.yandexmapkitexample",
+        "sha256_cert_fingerprints": ["A2:55:FA:4F:73:72:37:5A:AA:DB:D3:1E:E0:A7:7E:77:24:27:AC:4A:D9:F1:4F:94:8E:ED:A7:1C:63:E4:02:11"] 
+    }
+}]
